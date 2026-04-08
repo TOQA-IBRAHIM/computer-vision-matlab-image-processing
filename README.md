@@ -22,12 +22,6 @@ To apply core computer vision concepts such as image preprocessing, feature extr
 ## 🔍 Final Project
 A simple shape recognition application that identifies geometric shapes from input images using image processing techniques.
 
----
-
-## 👩‍💻 My Contribution
-- Implemented image preprocessing techniques  
-- Worked on shape detection logic  
-- Contributed to code development and testing  
 
 ---
 
